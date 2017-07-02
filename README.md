@@ -1,9 +1,10 @@
 /* This file includes instructions for running the code */
 
-The folder named TCIS contains:
+The Code struture is as follows:
+
 1. cars.m (MATLAB code for video processing)
 2. server.py (python code for running the server)
-3. Traffic (a folder with all android files)
+3. Traffic2 (a folder with all android files)
 
 
 Instructions to run the server:
